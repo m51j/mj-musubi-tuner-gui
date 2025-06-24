@@ -123,7 +123,6 @@ else {
 ~/.local/bin/uv pip install -U --pre lycoris_lora
 
 ~/.local/bin/uv pip install -U typing-extensions --index-strategy unsafe-best-match
-
 $download_hy = Read-Host "请选择要下载的HunyuanVideo模型 [1/2/n] (默认为 n)
 1: 下载 T2V 模型
 2: 下载 I2V 模型
